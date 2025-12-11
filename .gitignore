@@ -6,6 +6,7 @@ dist/
 wheels/
 *.egg-info
 ref/
+operations-roadmap.json
 
 # Virtual environments
 .venv
